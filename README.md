@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/960761/AboutAspNet/edit/ma
 
 ## Contents
 
-You can refer to [**books**](https://github.com/960761/AboutAspNet/tree/master/books) folder for books of CCS;
+You can refer to [**books**](https://github.com/960761/AboutAspNet/tree/master/books) folder for books of Asp.net;
 
 You can refer to [**code**](https://github.com/960761/AboutAspNet/tree/master/code) folder for example code for books;
 
