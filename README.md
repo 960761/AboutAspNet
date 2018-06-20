@@ -1,2 +1,24 @@
-# AboutAspNet
-learning asp.net
+## Welcome to Asp.net Garden
+
+You can use the [editor on GitHub](https://github.com/960761/AboutAspNet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+## Contents
+
+You can refer to [**books**](https://github.com/960761/AboutAspNet/tree/master/books) folder for books of CCS;
+
+You can refer to [**code**](https://github.com/960761/AboutAspNet/tree/master/code) folder for example code for books;
+
+
+You can refer to the following for notes:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+[Go back to my homepage->](https://960761.github.io/)
+
